@@ -12,3 +12,4 @@ F:\route_course\C#\3-\assingment3\assignment3\ass3\obj\Debug\net8.0\refint\ass3.
 F:\route_course\C#\3-\assingment3\assignment3\ass3\obj\Debug\net8.0\ass3.pdb
 F:\route_course\C#\3-\assingment3\assignment3\ass3\obj\Debug\net8.0\ass3.genruntimeconfig.cache
 F:\route_course\C#\3-\assingment3\assignment3\ass3\obj\Debug\net8.0\ref\ass3.dll
+F:\route_course\C#\3-\assingment3\assignment3\ass3\obj\Debug\net8.0\ass3.sourcelink.json
